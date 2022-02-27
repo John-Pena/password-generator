@@ -18,4 +18,7 @@ This repository is a combination of using all the skills I have learned over the
 - Open the "Index.html" in your browser to view.
 
 ## Website URL
+https://john-pena.github.io/password-generator/
+
+![My Image](assets\images\website-screenshot.png)
 
